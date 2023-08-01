@@ -20,6 +20,9 @@ The aim of this project is to implement a peer review system that helps the revi
 
 ![image](https://github.com/SN-shalini/LangChain_Basic/assets/139114603/900b14d3-cdb5-4030-b7f9-d18914b3181d)
 
+![image](https://github.com/SN-shalini/LangChain_Basic/assets/139114603/a1d52fa3-7711-47f6-aa09-67380950d79f)
+
+
 
 
 
