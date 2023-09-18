@@ -58,8 +58,8 @@ def create_huggingface_embeddings(chunks):
         return knowledge_base
 
 if __name__ == '__main__':
-    os.environ["OPENAI_API_KEY"] = "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"
-    os.environ["REPLICATE_API_TOKEN"] = "r8_HHv9AIgNL2lPDtMmmNYtMxkIyDefyO02Uq7ZT"
+    os.environ["OPENAI_API_KEY"] = ""
+    os.environ["REPLICATE_API_TOKEN"] = ""
     st.set_page_config(page_title="PDF Chat Bot", layout="wide")
     st.header("PDF Chat Bot")
 
